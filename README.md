@@ -4,6 +4,10 @@
 
 ## Available Scripts
 
+## This image automatically updates to reflect the current state of your latest production deploy. You can use the markdown snippet below to add it to your project README:
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/feb6482a-43f4-4f94-b250-7b7ad870d235/deploy-status)](https://app.netlify.com/sites/silly-mcnulty-61dc68/deploys)
+
 ### npm start
 
 Runs the app in the development mode.
