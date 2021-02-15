@@ -8,7 +8,7 @@
 <style>
   /* css will go here */
   h1 {
-    color: yellow;
+    color: purple;
   }
 </style>
 
